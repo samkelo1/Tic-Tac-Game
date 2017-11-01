@@ -1,0 +1,23 @@
+C:\Users\sn2706402\Desktop\hamba\tictactoe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\sn2706402\Desktop\hamba\tictactoe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\sn2706402\Desktop\hamba\tictactoe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\sn2706402\Desktop\hamba\tictactoe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\sn2706402\Desktop\hamba\tictactoe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\sn2706402\Desktop\hamba\tictactoe\TicTacToe\obj\Debug\TicTacToe.frmOptions.resources
+C:\Users\sn2706402\Desktop\hamba\tictactoe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\sn2706402\Desktop\hamba\tictactoe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\sn2706402\Desktop\hamba\tictactoe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\sn2706402\Desktop\hamba\tictactoe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\sn2706402\Desktop\hamba\tictactoe_SamkeloNgubo\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\sn2706402\Desktop\hamba\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\sn2706402\Desktop\hamba\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\sn2706402\Desktop\hamba\tictactoe_SamkeloNgubo\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\sn2706402\Desktop\hamba\tictactoe_SamkeloNgubo\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\sn2706402\Desktop\hamba\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\sn2706402\Desktop\hamba\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.frmOptions.resources
+C:\Users\sn2706402\Desktop\hamba\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\sn2706402\Desktop\hamba\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\sn2706402\Desktop\hamba\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.index.resources
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.pdb

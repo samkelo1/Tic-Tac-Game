@@ -1,0 +1,14 @@
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.index.resources
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.frmOptions.resources
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToeGame.csproj.GenerateResource.Cache
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToeGame.csprojResolveAssemblyReference.cache
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\bin\Debug\TicTacToe.exe.manifest
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\bin\Debug\TicTacToe.application
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.exe.manifest
+C:\Users\Samkelo Ngubo\Desktop\1\tictactoe_SamkeloNgubo\tictactoe_SamkeloNgubo\TicTacToe\obj\Debug\TicTacToe.application
